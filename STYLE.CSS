@@ -1,0 +1,24 @@
+h1{
+    margin-bottom: 30px;
+    color: rgb(235, 178, 227);
+    text-decoration: underline;
+}
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: rgb(178, 195, 231);
+    border: solid;
+    font-weight: bold;
+}
+button{
+    margin-bottom: 20px;
+    background-color: rgb(201, 195, 238);
+    font-weight: bold;
+}
+hr{
+    margin-bottom: 15px;
+}
+body{
+    background-color: rgb(126, 172, 184);
+}
